@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoteDirector</string>
+    <string name="app_launcher_name">NoteDirector</string>
+    <string name="edit">Upraviť</string>
+    <string name="open_camera">Otvoriť fotoaparát</string>
+    <string name="open_with">Otvoriť pomocou</string>
+    <string name="no_app_found">Nenašla sa žiadna vhodná aplikácia</string>
+    <string name="hidden">(skryté)</string>
+    <string name="pin_folder">Pripnúť priečinok</string>
+    <string name="unpin_folder">Odopnúť priečinok</string>
+    <string name="show_all">Zobraziť obsah všetkých priečinkov</string>
+    <string name="all_folders">Všetky priečinky</string>
+    <string name="folder_view">Prepnúť na zobrazenie priečinkov</string>
+    <string name="other_folder">Iný priečinok</string>
+    <string name="show_on_map">Zobraziť na mape</string>
+    <string name="unknown_location">Neznáma poloha</string>
+    <string name="no_map_application">Nenašla sa žiadna mapová aplikácia</string>
+    <string name="no_camera_app_found">Nenašla sa žiadna aplikácia pre fotoaparát</string>
+    <string name="increase_column_count">Zvýšiť počet stĺpcov</string>
+    <string name="reduce_column_count">Znížiť počet stĺpcov</string>
+    <string name="change_cover_image">Zmeniť obal albumu</string>
+    <string name="select_photo">Zvoliť foto</string>
+    <string name="use_default">Použiť predvolený</string>
+    <string name="set_as">Nastaviť ako</string>
+    <string name="volume">Hlasitosť</string>
+    <string name="brightness">Jas</string>
+
+    <!-- Filter -->
+    <string name="filter_media">Filter médií</string>
+    <string name="images">Obrázky</string>
+    <string name="videos">Videá</string>
+    <string name="gifs">GIFká</string>
+    <string name="no_media_with_filters">So zvolenými filtrami sa nenašli žiadne média súbory.</string>
+    <string name="change_filters_underlined"><u>Zmeniť filtre</u></string>
+
+    <!-- Hide / Exclude -->
+    <string name="hide_folder_description">Táto funkcia skryje priečinok pridaním súboru \'.nomedia\', skryté budú aj podpriečinky. Môžete ich vidieť zvolením možnosti \'Zobraziť skryté priečinky\' v nastaveniach. Pokračovať?</string>
+    <string name="exclude">Vylúčiť</string>
+    <string name="excluded_folders">Vylúčené priečinky</string>
+    <string name="manage_excluded_folders">Spravovať vylúčené priečinky</string>
+    <string name="exclude_folder_description">Táto funkcia vylúči výber a jeho podpriečinky iba z Jednoduchej galérie. Spravovať vylúčené priečinky je možné v nastaveniach.</string>
+    <string name="exclude_folder_parent">Chcete ukryť rodičovský priečinok?</string>
+    <string name="excluded_activity_placeholder">Vylúčené priečinky budú spolu s podpriečinkami ukryté iba pred Jednoduchou Galériou, ostatné aplikácie ich budú stále vidieť.\\n\\nAk ich chcete ukryť aj pred ostatnými aplikáciami, použite funkciu Skryť.</string>
+    <string name="remove_all">Odstrániť všetky</string>
+    <string name="remove_all_description">Odstrániť všetky priečinky zo zoznamu vylúčených? Táto operácia neodstráni samotný obsah priečinkov.</string>
+
+    <!-- Include folders -->
+    <string name="include_folders">Pridané priečinky</string>
+    <string name="manage_included_folders">Spravovať pridané priečinky</string>
+    <string name="add_folder">Pridať priečinok</string>
+    <string name="included_activity_placeholder">Ak máte nejaké priečinky obsahujúce médiá, ale neboli rozpoznané aplikáciou, môžete ich tu manuálne pridať.</string>
+
+    <!-- Resizing -->
+    <string name="resize">Zmeniť veľkosť</string>
+    <string name="resize_and_save">Zmeniť veľkosť a uložiť</string>
+    <string name="width">Šǐrka</string>
+    <string name="height">Výška</string>
+    <string name="keep_aspect_ratio">Zachovať pomer strán</string>
+    <string name="invalid_values">Prosím zadajte platné rozlíšenie</string>
+
+    <!-- Editor -->
+    <string name="editor">Editor</string>
+    <string name="save">Uložiť</string>
+    <string name="rotate">Otočiť</string>
+    <string name="path">Cesta</string>
+    <string name="invalid_image_path">Neplatná cesta</string>
+    <string name="image_editing_failed">Úprava súboru zlyhala</string>
+    <string name="edit_image_with">Upraviť súbor s:</string>
+    <string name="no_editor_found">Nebol nájdený žiadny editor</string>
+    <string name="unknown_file_location">Neznáme umiestnenie súboru</string>
+    <string name="error_saving_file">Nepodarilo sa prepísať zdrojový súbor</string>
+    <string name="rotate_left">Otočiť vľavo</string>
+    <string name="rotate_right">Otočiť vpravo</string>
+    <string name="rotate_one_eighty">Otočiť o 180º</string>
+    <string name="flip">Preklopiť</string>
+    <string name="flip_horizontally">Preklopiť vodorovne</string>
+    <string name="flip_vertically">Preklopiť zvisle</string>
+    <string name="edit_with">Upraviť s</string>
+
+    <!-- Set wallpaper -->
+    <string name="simple_wallpaper">Jednoduchá tapeta</string>
+    <string name="set_as_wallpaper">Nastaviť ako tapetu</string>
+    <string name="set_as_wallpaper_failed">Nastavovanie ako tapeta zlyhalo</string>
+    <string name="set_as_wallpaper_with">Nastaviť ako tapetu s:</string>
+    <string name="no_capable_app_found">Nenašla sa žiadna vhodná aplikácia</string>
+    <string name="setting_wallpaper">Nastavuje sa tapeta&#8230;</string>
+    <string name="wallpaper_set_successfully">Tapeta bola úspešne zmenená</string>
+    <string name="portrait_aspect_ratio">Orientácia nastojato</string>
+    <string name="landscape_aspect_ratio">Orientácia naležato</string>
+
+    <!-- Slideshow -->
+    <string name="slideshow">Prezentácia</string>
+    <string name="interval">Interval (sekundy):</string>
+    <string name="include_photos">Zahrnúť fotky</string>
+    <string name="include_videos">Zahrnúť videá</string>
+    <string name="include_gifs">Zahrnúť GIFy</string>
+    <string name="random_order">Náhodné poradie</string>
+    <string name="use_fade">Používať miznúce animácie</string>
+    <string name="move_backwards">Ísť opačným smerom</string>
+    <string name="loop_slideshow">Automaticky reštartovať prezentáciu</string>
+    <string name="slideshow_ended">Prezentácia skončila</string>
+    <string name="no_media_for_slideshow">Pre prezentáciu sa nenašli žiadne vhodné súbory</string>
+
+    <!-- Settings -->
+    <string name="show_hidden_media">Zobraziť skryté médiá</string>
+    <string name="autoplay_videos">Spúšťať videá automaticky</string>
+    <string name="toggle_filename">Prepnúť viditeľnosť názvov súborov</string>
+    <string name="loop_videos">Automaticky reštartovať videá</string>
+    <string name="animate_gifs">Animovať GIF súbory pri náhľade</string>
+    <string name="max_brightness">Maximálny jas pri prezeraní médií</string>
+    <string name="crop_thumbnails">Orezať náhľady na štvorce</string>
+    <string name="screen_rotation_by">Otáčať obrazovku podľa Rotate fullscreen media by</string>
+    <string name="screen_rotation_system_setting">Systémového nastavenia</string>
+    <string name="screen_rotation_device_rotation">Otočenia zariadenia</string>
+    <string name="screen_rotation_aspect_ratio">Pomeru strán</string>
+    <string name="dark_background_at_fullscreen">Tmavé pozadie pri médiách na celú obrazovku</string>
+    <string name="scroll_thumbnails_horizontally">Prehliadať miniatúry vodorovne</string>
+    <string name="hide_system_ui_at_fullscreen">Automaticky skrývať systémové lišty pri celoobrazovkových médiách</string>
+    <string name="delete_empty_folders">Odstrániť prázdne priečinky po vymazaní ich obsahu</string>
+    <string name="allow_video_gestures">Povoliť ovládanie hlasitosti a jasu videí vertikálnymi ťahmi</string>
+    <string name="replace_share_with_rotate">Nahradiť Zdieľanie s Otočením v celoobrazovkovom menu</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Galéria na prezeranie obrázkov a videí bez reklám.</string>
+    <string name="app_long_description">
+        Jednoduchá nástroj použiteľný na prezeranie obrázkov a videí. Položky môžu byť zoradené podľa dátumu, veľkosti, názvu oboma smermi, obrázky je možné aj priblížiť. Položky sú zobrazované vo viacerých stĺpcoch v závislosti od veľkosti displeja, počet stĺpcov je možné meniť pomocou gesta prstami. Súbory môžete premenovať, zdieľať, mazať, kopírovať, premiestňovaŤ. Obrázky môžete orezať, otočiť, alebo nastaviť ako tapeta priamo v aplikácií.
+
+        Galéria je tiež poskytovaná pre použitie treťou stranou pre prehliadanie fotiek a videí, pridávanie príloh v emailových klientoch. Je perfektná na každodenné použitie.
+
+        Neobsahuje žiadne reklamy a nepotrebné oprávnenia. Je opensource, poskytuje možnosť zmeny farieb.
+
+        Táto aplikácia je iba jednou zo skupiny aplikácií. Ostatné viete nájsť na http://www.simplemobiletools.com
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>
