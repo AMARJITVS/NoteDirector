@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoteDirector</string>
+    <string name="app_launcher_name">NoteDirector</string>
+    <string name="edit">Modifica</string>
+    <string name="open_camera">Apri fotocamera</string>
+    <string name="open_with">Apri con</string>
+    <string name="no_app_found">Nessun app valida trovata</string>
+    <string name="hidden">(nascosta)</string>
+    <string name="pin_folder">Blocca cartella</string>
+    <string name="unpin_folder">Sblocca cartella</string>
+    <string name="show_all">Mostra tutti i contenuti</string>
+    <string name="all_folders">Tutti i media</string>
+    <string name="folder_view">Visualizza a cartelle</string>
+    <string name="other_folder">Altra cartella</string>
+    <string name="show_on_map">Mostra sulla mappa</string>
+    <string name="unknown_location">Posizione sconosciuta</string>
+    <string name="no_map_application">Nessuna app con mappe trovata</string>
+    <string name="no_camera_app_found">Nessuna app fotocamera trovata</string>
+    <string name="increase_column_count">Aumenta numero colonne</string>
+    <string name="reduce_column_count">Riduci numero colonne</string>
+    <string name="change_cover_image">Cambia immagine copertina</string>
+    <string name="select_photo">Seleziona foto</string>
+    <string name="use_default">Usa predefinita</string>
+    <string name="set_as">Imposta come</string>
+    <string name="volume">Volume</string>
+    <string name="brightness">Luminosità</string>
+
+    <!-- Filter -->
+    <string name="filter_media">Filtra i media</string>
+    <string name="images">Immagini</string>
+    <string name="videos">Video</string>
+    <string name="gifs">GIF</string>
+    <string name="no_media_with_filters">Nessun file trovato per il filtro selezionato.</string>
+    <string name="change_filters_underlined"><u>Cambia filtro</u></string>
+
+    <!-- Hide / Exclude -->
+    <string name="hide_folder_description">Questa funzione nasconde la cartella aggiungendo un file \'.nomedia\' all\'interno, nasconderà anche tutte le sottocartelle. Puoi vederle attivando l\'opzione \'Mostra cartelle nascoste\' nelle impostazioni. Continuare?</string>
+    <string name="exclude">Escludi</string>
+    <string name="excluded_folders">Cartelle escluse</string>
+    <string name="manage_excluded_folders">Gestisci cartelle escluse</string>
+    <string name="exclude_folder_description">Questo escluderà la selezione e le relative sottocartelle solo da Simple Gallery. Puoi gestire le cartelle escluse nelle impostazioni.</string>
+    <string name="exclude_folder_parent">Vuoi invece escluderne una superiore?</string>
+    <string name="excluded_activity_placeholder">L\'esclusione delle cartelle e delle sottocartelle le renderà nascoste solo in Simple Gallery, saranno ancora visibili in altre applicazioni.\\n\\nSe desideri nasconderle anche nelle altre app, usa la funzione Nascondi.</string>
+    <string name="remove_all">Rimuovi tutte</string>
+    <string name="remove_all_description">Rimuovere tutte le cartelle dalla lista delle esclusioni? Ciò non eliminerà le cartelle.</string>
+
+    <!-- Include folders -->
+    <string name="include_folders">Includi cartelle</string>
+    <string name="manage_included_folders">Gestisci cartelle incluse</string>
+    <string name="add_folder">Aggiungi cartella</string>
+    <string name="included_activity_placeholder">Se hai alcune cartelle che contengono media, ma non sono state riconosciute dall\'app, puoi aggiungerle manualmente qui.</string>
+
+    <!-- Resizing -->
+    <string name="resize">Ridimensiona</string>
+    <string name="resize_and_save">Ridimensiona la selezione e salva</string>
+    <string name="width">Larghezza</string>
+    <string name="height">Altezza</string>
+    <string name="keep_aspect_ratio">Mantieni proporzioni</string>
+    <string name="invalid_values">Inserisci una risoluzione valida</string>
+
+    <!-- Editor -->
+    <string name="editor">Editor</string>
+    <string name="save">Salva</string>
+    <string name="rotate">Ruota</string>
+    <string name="path">Percorso</string>
+    <string name="invalid_image_path">Percorso immagine non valido</string>
+    <string name="image_editing_failed">Modifica immagine fallita</string>
+    <string name="edit_image_with">Modifica immagine con:</string>
+    <string name="no_editor_found">Editor immagini non trovato</string>
+    <string name="unknown_file_location">Posizione file sconosciuta</string>
+    <string name="error_saving_file">Impossibile sovrascrivere il file originale</string>
+    <string name="rotate_left">Ruota a sinistra</string>
+    <string name="rotate_right">Ruota a destra</string>
+    <string name="rotate_one_eighty">Ruota di 180º</string>
+    <string name="flip">Capovolgi</string>
+    <string name="flip_horizontally">Capovolgi orizzontalmente</string>
+    <string name="flip_vertically">Capovolgi verticalmente</string>
+    <string name="edit_with">Modifica con</string>
+
+    <!-- Set wallpaper -->
+    <string name="simple_wallpaper">Sfondo semplice</string>
+    <string name="set_as_wallpaper">Imposta come sfondo</string>
+    <string name="set_as_wallpaper_failed">Impostazione sfondo non riuscita</string>
+    <string name="set_as_wallpaper_with">Imposta come sfondo con:</string>
+    <string name="no_capable_app_found">Non sono disponibili app compatibili</string>
+    <string name="setting_wallpaper">Impostazione sfondo&#8230;</string>
+    <string name="wallpaper_set_successfully">Sfondo impostato correttamente</string>
+    <string name="portrait_aspect_ratio">Proporzioni ritratto</string>
+    <string name="landscape_aspect_ratio">Proporzioni panorama</string>
+
+    <!-- Slideshow -->
+    <string name="slideshow">Presentazione</string>
+    <string name="interval">Intervallo (secondi):</string>
+    <string name="include_photos">Includi foto</string>
+    <string name="include_videos">Includi video</string>
+    <string name="include_gifs">Includi GIF</string>
+    <string name="random_order">Ordine sparso</string>
+    <string name="use_fade">Usa animazioni a dissolvenza</string>
+    <string name="move_backwards">Scorri al contrario</string>
+    <string name="loop_slideshow">Ripeti presentazione</string>
+    <string name="slideshow_ended">La presentazione è terminata</string>
+    <string name="no_media_for_slideshow">Nessun media trovato per la presentazione</string>
+
+    <!-- Settings -->
+    <string name="show_hidden_media">Mostra cartelle nascoste</string>
+    <string name="autoplay_videos">Riproduci video automaticamente</string>
+    <string name="toggle_filename">Visibilità nome del file</string>
+    <string name="loop_videos">Ripeti i video</string>
+    <string name="animate_gifs">Anima le GIF in miniatura</string>
+    <string name="max_brightness">Luminosità max durante visualizzazione</string>
+    <string name="crop_thumbnails">Ritaglia le miniature in quadrati</string>
+    <string name="screen_rotation_by">Ruota a schermo intero per</string>
+    <string name="screen_rotation_system_setting">Impostazione di sistema</string>
+    <string name="screen_rotation_device_rotation">Rotazione dispositivo</string>
+    <string name="screen_rotation_aspect_ratio">Proporzioni</string>
+    <string name="dark_background_at_fullscreen">Sfondo scuro a schermo intero</string>
+    <string name="scroll_thumbnails_horizontally">Scorri miniature orizzontalmente</string>
+    <string name="hide_system_ui_at_fullscreen">Nascondi UI di sistema con media a schermo intero</string>
+    <string name="delete_empty_folders">Elimina cartelle vuote dopo averne eliminato il contenuto</string>
+    <string name="allow_video_gestures">Gestisci il volume e la luminosità dei video con gesti verticali</string>
+    <string name="replace_share_with_rotate">Sostituisci Condividi con Ruota a schermo intero</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Una galleria per visualizzare foto e video senza pubblicità.</string>
+    <string name="app_long_description">
+        Un semplice strumento per visualizzare foto e video. Gli elementi possono essere ordinati per data, dimensioni, nome sia ascendente che discendente; le foto possono essere ingrandite. I file sono mostrati in colonne multiple a seconda delle dimensioni dello schermo, puoi modificare il numero di colonne con il tocco. Possono essere rinominate, condivise, eliminate, copiate, spostate. Le immagini possono anche essere ritagliate, ruotate o impostate come sfondo direttamente dall\'app.
+
+        Simple Gallery è anche offerta per utilizzo di terze parti per anteprime di immagini / video, aggiunta di allegati ai client email, ecc. È perfetta per un uso quotidiano.
+
+        Non contiene pubblicità o autorizzazioni non necessarie. È completamente opensource, offre colori personalizzabili.
+
+        Questa app è solo una piccola parte di una grande serie di altre app. Puoi trovarle tutte su http://www.simplemobiletools.com
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>

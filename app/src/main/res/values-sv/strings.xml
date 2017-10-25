@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoteDirector</string>
+    <string name="app_launcher_name">NoteDirector</string>
+    <string name="edit">Redigera</string>
+    <string name="open_camera">Starta kameran</string>
+    <string name="open_with">Öppna med</string>
+    <string name="no_app_found">Hittade ingen giltig app</string>
+    <string name="hidden">(dold)</string>
+    <string name="pin_folder">Fäst mappen</string>
+    <string name="unpin_folder">Släpp mappen</string>
+    <string name="show_all">Visa alla mappars innehåll</string>
+    <string name="all_folders">Alla mappar</string>
+    <string name="folder_view">Byt till mappvy</string>
+    <string name="other_folder">Andra mappar</string>
+    <string name="show_on_map">Visa på karta</string>
+    <string name="unknown_location">Okänd plats</string>
+    <string name="no_map_application">Ingen app med kartor hittades</string>
+    <string name="no_camera_app_found">Ingen Kamera-app hittades</string>
+    <string name="increase_column_count">Öka antalet kolumner</string>
+    <string name="reduce_column_count">Minska antalet kolumner</string>
+    <string name="change_cover_image">Byt omslagsbild</string>
+    <string name="select_photo">Välj foto</string>
+    <string name="use_default">Använd standard</string>
+    <string name="set_as">Ange som</string>
+    <string name="volume">Volym</string>
+    <string name="brightness">Ljusstyrka</string>
+
+    <!-- Filter -->
+    <string name="filter_media">Filtrera media</string>
+    <string name="images">Bilder</string>
+    <string name="videos">Videor</string>
+    <string name="gifs">GIF-bilder</string>
+    <string name="no_media_with_filters">Inga mediefiler hittades med valda filter.</string>
+    <string name="change_filters_underlined"><u>Ändra filter</u></string>
+
+    <!-- Hide / Exclude -->
+    <string name="hide_folder_description">Denna funktion döljer mappen och alla dess undermappar genom att lägga till en \'.nomedia\'-fil i den. Du kan se dem genom att växla \'Visa dolda mappar\'-alternativet i Inställningar. Vill du fortsätta?</string>
+    <string name="exclude">Uteslut</string>
+    <string name="excluded_folders">Uteslutna mappar</string>
+    <string name="manage_excluded_folders">Hantera uteslutna mappar</string>
+    <string name="exclude_folder_description">Detta utesluter bara den markerade mappen och dess undermappar från Simple Gallery. Du kan hantera uteslutna mappar i Inställningar.</string>
+    <string name="exclude_folder_parent">Vill du utesluta en överordnad mapp istället?</string>
+    <string name="excluded_activity_placeholder">Uteslutning av mappar döljer bara dem och deras undermappar i Simple Gallery, de visas fortfarande i andra appar.\\n\\nAnvänd Dölj-funktionen om du även vill dölja dem från andra appar.</string>
+    <string name="remove_all">Ta bort alla</string>
+    <string name="remove_all_description">Vill du ta bort alla mappar från uteslutningslistan? Detta raderar inte mapparna.</string>
+
+    <!-- Include folders -->
+    <string name="include_folders">Inkluderade mappar</string>
+    <string name="manage_included_folders">Hantera inkluderade mappar</string>
+    <string name="add_folder">Lägg till mapp</string>
+    <string name="included_activity_placeholder">Om du har vissa mappar som innehåller media men som inte känns igen av appen, kan du lägga till dem manuellt här.</string>
+
+    <!-- Resizing -->
+    <string name="resize">Ändra storlek</string>
+    <string name="resize_and_save">Ändra storlek och spara</string>
+    <string name="width">Bredd</string>
+    <string name="height">Höjd</string>
+    <string name="keep_aspect_ratio">Behåll bildförhållande</string>
+    <string name="invalid_values">Ange en giltig bildupplösning</string>
+
+    <!-- Editor -->
+    <string name="editor">Redigera</string>
+    <string name="save">Spara</string>
+    <string name="rotate">Rotera</string>
+    <string name="path">Sökväg</string>
+    <string name="invalid_image_path">Ogiltig bildsökväg</string>
+    <string name="image_editing_failed">Bilden kunde inte redigeras</string>
+    <string name="edit_image_with">Redigera bilden med:</string>
+    <string name="no_editor_found">Hittade ingen bildredigerare</string>
+    <string name="unknown_file_location">Okänd filplats</string>
+    <string name="error_saving_file">Det gick inte att skriva över källfilen</string>
+    <string name="rotate_left">Rotera åt vänster</string>
+    <string name="rotate_right">Rotera åt höger</string>
+    <string name="rotate_one_eighty">Rotera 180º</string>
+    <string name="flip">Vänd</string>
+    <string name="flip_horizontally">Vänd horisontellt</string>
+    <string name="flip_vertically">Vänd vertikalt</string>
+    <string name="edit_with">Redigera med</string>
+
+    <!-- Set wallpaper -->
+    <string name="simple_wallpaper">Bakgrundsbild</string>
+    <string name="set_as_wallpaper">Ange som bakgrundsbild</string>
+    <string name="set_as_wallpaper_failed">Det gick inte att byta bakgrundsbild</string>
+    <string name="set_as_wallpaper_with">Ange som bakgrundsbild med:</string>
+    <string name="no_capable_app_found">Hittade ingen app som klarar av detta</string>
+    <string name="setting_wallpaper">Inställningar för bakgrundsbild&#8230;</string>
+    <string name="wallpaper_set_successfully">Bakgrundsbilden är ändrad</string>
+    <string name="portrait_aspect_ratio">Stående bildförhållande</string>
+    <string name="landscape_aspect_ratio">Liggande bildförhållande</string>
+
+    <!-- Slideshow -->
+    <string name="slideshow">Bildspel</string>
+    <string name="interval">Intervall (sekunder):</string>
+    <string name="include_photos">Inkludera foton</string>
+    <string name="include_videos">Inkludera videor</string>
+    <string name="include_gifs">Inkludera GIF-bilder</string>
+    <string name="random_order">Spela upp i slumpmässig ordning</string>
+    <string name="use_fade">Använd toningsanimationer</string>
+    <string name="move_backwards">Spela upp i omvänd ordning</string>
+    <string name="loop_slideshow">Spela upp i en slinga</string>
+    <string name="slideshow_ended">Bildspelet har avslutats</string>
+    <string name="no_media_for_slideshow">Ingen media hittades för bildspelet</string>
+
+    <!-- Settings -->
+    <string name="show_hidden_media">Visa dolda mappar</string>
+    <string name="autoplay_videos">Spela upp videos automatiskt</string>
+    <string name="toggle_filename">Visa/dölj filnamnen</string>
+    <string name="loop_videos">Återspela videos</string>
+    <string name="animate_gifs">Animera GIF-bilders miniatyrer</string>
+    <string name="max_brightness">Maximal ljusstyrka när media visas</string>
+    <string name="crop_thumbnails">Beskär miniatyrer till kvadrater</string>
+    <string name="screen_rotation_by">Rotera media i helskärmsläge</string>
+    <string name="screen_rotation_system_setting">Systeminställning</string>
+    <string name="screen_rotation_device_rotation">Enhetens rotation</string>
+    <string name="screen_rotation_aspect_ratio">Bildförhållande</string>
+    <string name="dark_background_at_fullscreen">Mörk bakgrund när media visas i helskärmsläge</string>
+    <string name="scroll_thumbnails_horizontally">Rulla horisontellt genom miniatyrer</string>
+    <string name="hide_system_ui_at_fullscreen">Dölj systemanvändargränssnittet automatiskt när media visas i helskärmsläge</string>
+    <string name="delete_empty_folders">Ta bort tomma mappar när deras innehåll tas bort</string>
+    <string name="allow_video_gestures">Tillåt styrning av videovolym och videoljusstyrka med vertikala gester</string>
+    <string name="replace_share_with_rotate">Ersätt Dela med Rotera i helskärmsmenyn</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Ett Galleri för att visa bilder och videos utan en massa reklam.</string>
+    <string name="app_long_description">
+        Ett enkelt verktyg för att visa bilder och videos. Objekten kan sorteras efter datum, storlek, namn både stigande och fallande, bilder kan zoomas in. Mediafiler visas i flera kolumner beroende av skärmens storlek, du kan ändra antalet kolumner genom en nyp-rörelse. De går att döpa om, dela, ta bort, kopiera, flytta. Bilder kan också beskäras, roteras och anges som bakgrundsbild direkt från appen.
+
+        Galleriet kan också användas av tredjepartsappar för förhandsgranskning av bilder / videos, bifoga bilagor i e-postklienter etc. Den är perfekt för det dagliga användandet.
+
+        Innehåller ingen reklam eller onödiga behörigheter. Det är helt och hållet opensource, innehåller anpassningsbara färger.
+
+        Detta är bara en app i en serie av appar. Du hittar resten av dem här http://www.simplemobiletools.com
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>

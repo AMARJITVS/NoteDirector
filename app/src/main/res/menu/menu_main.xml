@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/sort"
+        android:icon="@drawable/ic_sort"
+        android:title="@string/sort_by"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/filter"
+        android:icon="@drawable/ic_filter"
+        android:title="@string/filter_media"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/increase_column_count"
+        android:title="@string/increase_column_count"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/reduce_column_count"
+        android:title="@string/reduce_column_count"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/instructions"
+        android:title="@string/instructions"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/settings"
+        android:title="@string/settings"
+        app:showAsAction="never"/>
+
+</menu>

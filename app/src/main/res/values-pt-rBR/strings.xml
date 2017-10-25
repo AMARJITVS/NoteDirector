@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Gallery</string>
+    <string name="app_launcher_name">Galeria</string>
+    <string name="edit">Editar</string>
+    <string name="open_camera">Abrir câmera</string>
+    <string name="open_with">Abrir com</string>
+    <string name="no_app_found">Nenhum aplicativo encontrado</string>       
+    <string name="hidden">(oculto)</string>
+    <string name="pin_folder">Fixar pasta</string>
+    <string name="unpin_folder">Desfixar pasta</string>
+    <string name="show_all">Mostrar conteúdo de todas as pastas</string>
+    <string name="all_folders">Todas as pastas</string>
+    <string name="folder_view">Alternar para a visualização de pastas</string>
+    <string name="other_folder">Outra pasta</string>
+    <string name="show_on_map">Mostrar no mapa</string>
+    <string name="unknown_location">Localização desconhecida</string>
+    <string name="no_map_application">Nenhum aplicativo de mapa encontrado</string>
+    <string name="no_camera_app_found">Nenhum aplicativo de câmera encontrado</string>
+    <string name="increase_column_count">Aumentar número de colunas</string>
+    <string name="reduce_column_count">Reduzir número de colunas</string>
+    <string name="change_cover_image">Trocar imagem de capa</string>
+    <string name="select_photo">Selecionar foto</string>
+    <string name="use_default">Usar padrão</string>
+    <string name="set_as">Set as</string>
+    <string name="volume">Volume</string>
+    <string name="brightness">Brightness</string>
+
+    <!-- Filter -->
+    <string name="filter_media">Filter media</string>
+    <string name="images">Images</string>
+    <string name="videos">Videos</string>
+    <string name="gifs">GIFs</string>
+    <string name="no_media_with_filters">No media files have been found with the selected filters.</string>
+    <string name="change_filters_underlined"><u>Change filters</u></string>
+
+    <!-- Hide / Exclude -->
+    <string name="hide_folder_description">Esta opção oculta uma pasta com a adição de um arquivo \'.nomedia\' dentro dela, e irá ocultar todas as subpastas que estejam dentro da mesma. Você poderá rever essas pastas com a opção \'Mostrar pastas ocultas\'. Continuar?</string>
+    <string name="exclude">Excluir</string>
+    <string name="excluded_folders">Pastas excluídas</string>
+    <string name="manage_excluded_folders">Gerenciar pastas excluídas</string>
+    <string name="exclude_folder_description">Esta ação irá excluir as pastas selecionadas apenas dentro deste aplicativo. Você pode gerenciar as pastas excuídas nas Configurações do aplicativo.</string>
+    <string name="exclude_folder_parent">Excluir antes a pasta raíz?</string>
+    <string name="excluded_activity_placeholder">A exlusão de uma pasta apenas oculta o seu conteúdo da galeria, pois todos os outros aplicativos poderão acessá-las.\\n\\nSe quiser ocultar de todos os aplicativos, utilize a função ocultar.</string>
+    <string name="remove_all">Remover todas</string>
+    <string name="remove_all_description">Remover todas as pastas da lista de exclusões? Esta ação não apaga as pastas.</string>
+
+    <!-- Include folders -->
+    <string name="include_folders">Pastas incluídas</string>
+    <string name="manage_included_folders">Gerenciar pastas incluídas</string>
+    <string name="add_folder">Adicionar pasta</string>
+    <string name="included_activity_placeholder">Se possuir pastas com dados multimídia não reconhecidos pelo aplicativo, aqui você pode adicioná-las manualmente.</string>
+
+    <!-- Resizing -->
+    <string name="resize">Redimensionar</string>
+    <string name="resize_and_save">Redimensionar seleção e salvar</string>
+    <string name="width">Largura</string>
+    <string name="height">Altura</string>
+    <string name="keep_aspect_ratio">Manter proporção</string>
+    <string name="invalid_values">Digite uma resolução válida</string>
+
+    <!-- Editor -->
+    <string name="editor">Editor</string>
+    <string name="save">Salvar</string>
+    <string name="rotate">Girar</string>
+    <string name="path">Caminho</string>
+    <string name="invalid_image_path">Caminho inválido</string>
+    <string name="image_editing_failed">Falha na edição da imagem</string>
+    <string name="edit_image_with">Editar imagem com:</string>
+    <string name="no_editor_found">Editor não encontrado</string>
+    <string name="unknown_file_location">Localização desconhecida</string>
+    <string name="error_saving_file">Não foi possível substituir o arquivo original</string>
+    <string name="rotate_left">Girar para a esquerda</string>
+    <string name="rotate_right">Girar para a direita</string>
+    <string name="rotate_one_eighty">Girar 180º</string>
+    <string name="flip">Inverter</string>
+    <string name="flip_horizontally">Horizontalmente</string>
+    <string name="flip_vertically">Verticalmente</string>
+    <string name="edit_with">Edit with</string>
+
+    <!-- Set wallpaper -->
+    <string name="simple_wallpaper">Simple Wallpaper</string>
+    <string name="set_as_wallpaper">Definir como papel de parede</string>
+    <string name="set_as_wallpaper_failed">Falha ao definir como papel de parede</string>
+    <string name="set_as_wallpaper_with">Definir papel de parede com:</string>
+    <string name="no_capable_app_found">Aplicativo não encontrado</string>
+    <string name="setting_wallpaper">Definindo como papel de parede;</string>
+    <string name="wallpaper_set_successfully">Papel de parede com sucesso</string>
+    <string name="portrait_aspect_ratio">Retrato</string>
+    <string name="landscape_aspect_ratio">Paisagem</string>
+
+    <!-- Slideshow -->
+    <string name="slideshow">Slideshow</string>
+    <string name="interval">Interval (seconds):</string>
+    <string name="include_photos">Include photos</string>
+    <string name="include_videos">Include videos</string>
+    <string name="include_gifs">Include GIFs</string>
+    <string name="random_order">Random order</string>
+    <string name="use_fade">Use fade animations</string>
+    <string name="move_backwards">Move backwards</string>
+    <string name="loop_slideshow">Loop slideshow</string>
+    <string name="slideshow_ended">The slideshow ended</string>
+    <string name="no_media_for_slideshow">No media for the slideshow have been found</string>
+
+    <!-- Settings -->
+    <string name="show_hidden_media">Mostrar pastas ocultas</string>
+    <string name="autoplay_videos">Reproduzir vídeos automaticamente</string>
+    <string name="toggle_filename">Mostrar/ocultar nome do arquivo</string>
+    <string name="loop_videos">Reproduzir vídeos em ciclo</string>
+    <string name="animate_gifs">Animação de GIFs nas miniaturas</string>
+    <string name="max_brightness">Brilho máximo ao visualizar mídia</string>
+    <string name="crop_thumbnails">Recortar miniaturas em quadrados</string>
+    <string name="screen_rotation_by">Critério para rotação de tela</string>
+    <string name="screen_rotation_system_setting">Padrão do sistema</string>
+    <string name="screen_rotation_device_rotation">Sensor do aparelho</string>
+    <string name="screen_rotation_aspect_ratio">Proporção da mídia</string>
+    <string name="dark_background_at_fullscreen">Fundo de tela escuro em mídia tela cheia</string>
+    <string name="scroll_thumbnails_horizontally">Rolar miniaturas horizontalmente</string>
+    <string name="hide_system_ui_at_fullscreen">Automatically hide system UI at fullscreen media</string>
+    <string name="delete_empty_folders">Delete empty folders after deleting their content</string>
+    <string name="allow_video_gestures">Allow controlling video volume and brightness with vertical gestures</string>
+    <string name="replace_share_with_rotate">Replace Share with Rotate at fullscreen menu</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Um aplicativo para ver fotos e vídeos.</string>
+    <string name="app_long_description">
+        Uma ferramenta simples para ver fotos e vídeos. Pode organizar os itens por data, tamanho, nome e ampliar as fotografias. As pastas são mostradas em colunas, e a sua exibição dependerá do tamanho da tela, aonde o usuário poderá alterar o número de colunas através de gestos. Você pode renomear, compartilhar, apagar, copiar e mover os arquivos. Também pode recortar, girar e definir as imagens como fundo de tela.
+
+        Também pode ser utilizada para pré-visualizar imagens e vídeos, ou para adicionar como anexos ao e-mail, entre outros. É perfeita para a utilização diária.
+
+        Não contém anúncios, nem permissões desnecessárias. Disponibiliza um tema escuro, e é totalmente \'open source\'.
+
+        Este aplicativo é apenas parte de um conjunto mais vasto de aplicações. Saiba mais em http://www.simplemobiletools.com
+    </string>
+
+    <!--
+        Não encontrou todas as cadeias a traduzir? Existem mais algumas em:
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>
