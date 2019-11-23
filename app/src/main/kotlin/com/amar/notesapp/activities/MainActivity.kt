@@ -97,9 +97,9 @@ class MainActivity : SimpleActivity(), DirectoryAdapter.DirOperationsListener {
         super.onCreate(savedInstanceState)
         setContentView(com.amar.NoteDirector.R.layout.activity_main)
 
-        MobileAds.initialize(this,"ca-app-pub-5725704895776408/5945504323")
+        MobileAds.initialize(this,"")
         mInterstitialAd =InterstitialAd(this)
-        mInterstitialAd.setAdUnitId("ca-app-pub-5725704895776408/7196142288");
+        mInterstitialAd.setAdUnitId("");
         mInterstitialAd.loadAd(AdRequest.Builder().build())
         mAdView = findViewById<View>(R.id.adView) as AdView
         val adRequest = AdRequest.Builder().addTestDevice(AdRequest.DEVICE_ID_EMULATOR).build()
